@@ -126,7 +126,8 @@ AAI_500-501/
 │   └── Auto_MPG_Final_Project.ipynb
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+├── .gitignore
+└── LICENSE
 ```
 
 **File descriptions:**
@@ -135,6 +136,7 @@ AAI_500-501/
 - `README.md` - Project overview, methodology, team responsibilities, and repository documentation.
 - `requirements.txt` - Python dependencies required for the project.
 - `.gitignore` - Git configuration for excluding temporary and environment-specific files.
+- `LICENSE` - MIT license included in the GitHub repository..
 
 GitHub is used to organize project files, maintain version history, and support team collaboration. The repository will be updated as the project progresses.
 
